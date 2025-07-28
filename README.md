@@ -48,8 +48,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SatyajeetChaurasiya&show_icons=true&theme=radical&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatyajeetChaurasiya&layout=compact&theme=radical" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=satyajeet9453&show_icons=true&theme=radical&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyajeet9453&layout=compact&theme=radical" width="40%" />
 </p>
 
 <p align="center">
