@@ -53,7 +53,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SatyajeetChaurasiya&theme=radical&hide_border=false" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=satyajeet9453&theme=radical&hide_border=false" width="60%" />
 </p>
 
 ---
